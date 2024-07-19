@@ -1,9 +1,15 @@
 html {
     background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(32, 32, 32);
+
 }
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
+    
     font-size: 50px;
+}
 
+img {
+    width: auto;
+    height: 500px;
 }
