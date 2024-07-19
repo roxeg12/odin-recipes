@@ -3,6 +3,7 @@ html {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(32, 32, 32);
 
+
 }
 h1 {
     
@@ -12,4 +13,12 @@ h1 {
 img {
     width: auto;
     height: 500px;
+}
+
+.optional {
+    color: gray;
+}
+
+p, li{
+    font-size: 20px;
 }
