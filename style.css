@@ -1,6 +1,26 @@
+html {
+    background-color: blanchedalmond;
+}
 h1 {
     font-family: "Brush Script MT", "Lucida Handwriting", cursive;
     text-align: center;
     color: rgb(43, 41, 41);
     font-size: 60px;
+    margin: auto;
+    padding-bottom: 5px;
+    background-color: blanchedalmond;
+}
+a {
+    font-size: 18px;
+}
+
+.title{
+    background-color: rgb(204, 177, 141);
+    padding: 20px 60px;
+    margin: 5px;
+}
+.list{
+    background-color: rgb(230, 205, 174);
+    margin: 30px 65px;
+    padding: 10px 15px;
 }
